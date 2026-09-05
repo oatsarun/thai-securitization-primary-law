@@ -1,11 +1,0 @@
-# source: ประกาศคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ ที่ กร. 23:2564 เรื่อง การกำหนดประประเภทธุรกรรมในตลาดทุนที่ให้ใช้ทรัสต์ได้.pdf
-# url: https://publish.sec.or.th/nrs/
-# sha256: 7fe190c700e8176c85650f74e0de8a6a12295d9b0e4bd2e8adeb1bbc268ff4e1
-# extracted: 2026-09-04 by pdftotext (poppler)
-# STATUS: working copy. The PDF is authoritative. Verify any quotation,
-#   section number or gazette date against the PDF before it ships.
-# NOTE: Thai extraction may insert spurious spaces inside words and may
-#   substitute private-use codepoints for vowels. Quote from the PDF or a
-#   rendered page image, never from this file.
-
-

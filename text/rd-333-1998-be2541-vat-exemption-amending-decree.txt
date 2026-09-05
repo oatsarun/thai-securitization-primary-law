@@ -1,25 +1,0 @@
-# source: rd-333-1998-be2541-vat-exemption-amending-decree.pdf
-# url: https://www.rd.go.th/
-# sha256: 19a3e9fc87f15139d9828edfc3583211406b0352b7dcfbbaa6481c6f25d6138c
-# extracted: 2026-09-04 by pdftotext (poppler)
-# STATUS: working copy. The PDF is authoritative. Verify any quotation,
-#   section number or gazette date against the PDF before it ships.
-# NOTE: This PDF's own text layer is corrupted (mojibake font substitution,
-#   61% Latin). A parallel HTML fetch of the same
-#   rd.go.th page confirms this is พระราชกฤษฎีกาออกตามความในประมวลรัษฎากร ว่าด้วย
-#   การยกเว้นภาษีมูลค่าเพิ่ม (ฉบับที่ 333) พ.ศ. 2541, given 20 October 1998 (B.E. 2541).
-#   Quote only from the PDF page image or a fresh rendering, never from this text layer.
-
-9/4/26, 2:39 PM                  พระราชกฤษฎีกาฉบับที่ 333/2541 | กรมสรรพากร - The Revenue Department (rd.go.th)
-
-
-
-
-https://www.rd.go.th/2798.html                                                                                    1/2
-9/4/26, 2:39 PM                  พระราชกฤษฎีกาฉบับที่ 333/2541 | กรมสรรพากร - The Revenue Department (rd.go.th)
-
-
-
-
-https://www.rd.go.th/2798.html                                                                                    2/2
-

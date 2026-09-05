@@ -1,32 +1,0 @@
-# source: rd-389-2001-be2544-cit-bad-debt-reserve-exemption-decree.pdf
-# url: https://www.rd.go.th/
-# sha256: cc6d121ab83e8cae926f07b6703495b240bcce3b9aa656a3b2cfe5c16293fe9c
-# extracted: 2026-09-04 by pdftotext (poppler)
-# STATUS: working copy. The PDF is authoritative. Verify any quotation,
-#   section number or gazette date against the PDF before it ships.
-# NOTE: This PDF's own text layer is corrupted (mojibake font substitution,
-#   61% Latin). A parallel HTML fetch of the same
-#   rd.go.th page confirms this is พระราชกฤษฎีกาออกตามความในประมวลรัษฎากร ว่าด้วย
-#   การยกเว้นรัษฎากร (ฉบับที่ 389) พ.ศ. 2544, given 28 August 2001 (B.E. 2544):
-#   a corporate-income-tax exemption for an SPJP's bad/doubtful-debt reserve.
-#   Quote only from the PDF page image or a fresh rendering, never from this text layer.
-
-9/4/26, 2:41 PM                  พระราชกฤษฎีกาฉบับที่ 389/2544 | กรมสรรพากร - The Revenue Department (rd.go.th)
-
-
-
-
-https://www.rd.go.th/2962.html                                                                                    1/3
-9/4/26, 2:41 PM                  พระราชกฤษฎีกาฉบับที่ 389/2544 | กรมสรรพากร - The Revenue Department (rd.go.th)
-
-
-
-
-https://www.rd.go.th/2962.html                                                                                    2/3
-9/4/26, 2:41 PM                  พระราชกฤษฎีกาฉบับที่ 389/2544 | กรมสรรพากร - The Revenue Department (rd.go.th)
-
-
-
-
-https://www.rd.go.th/2962.html                                                                                    3/3
-

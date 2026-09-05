@@ -1,11 +1,0 @@
-# source: ประกาศสำนักงานคณะกรรมการกำกับหลักทรัพย์และตลาดหลักทรัพย์ที่ สจ. 32:2565 เรื่อง การจัดสรรกระแสรายรับตามโครงการแปลงสินทรัพย์เป็นหลักทรัพย์ และการรายงานการโอนสินทรัพย์และผลประโยชน์คงเหลือของนิติบุคคลเฉพาะกิจ.pdf
-# url: https://publish.sec.or.th/nrs/
-# sha256: 9fb40939fe3ab53a4fd733135edaa3cf30c2187d3add9ec6c05bee9b0068ec70
-# extracted: 2026-09-04 by pdftotext (poppler)
-# STATUS: working copy. The PDF is authoritative. Verify any quotation,
-#   section number or gazette date against the PDF before it ships.
-# NOTE: Thai extraction may insert spurious spaces inside words and may
-#   substitute private-use codepoints for vowels. Quote from the PDF or a
-#   rendered page image, never from this file.
-
-
