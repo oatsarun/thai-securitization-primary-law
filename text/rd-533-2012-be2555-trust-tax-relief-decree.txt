@@ -1,0 +1,14 @@
+# source: rd-533-2012-be2555-trust-tax-relief-decree.pdf
+# url: https://rd.go.th/45981.html
+# sha256: 0dddd5e7296b73160e4bf6d79be167819dab6082b16cac8b96b71b24b14127cf
+# extracted: 2026-09-04 by pdftotext (poppler)
+# STATUS: working copy. The PDF is authoritative. Verify any quotation,
+#   section number or gazette date against the PDF before it ships.
+# NOTE: NO TEXT LAYER (scan — mark as a stub, quote only from the PDF). Identity
+#   confirmed by direct reading of the rendered page: พระราชกฤษฎีกาออกตามความใน
+#   ประมวลรัษฎากร ว่าด้วยการยกเว้นรัษฎากร (ฉบับที่ 533) พ.ศ. 2555, given 25 January 2012
+#   (B.E. 2555), gazetted Vol. 129 Part 12 Kor, 1 February 2012. s.5 exempts the
+#   trustee's corporate income tax on income received from the trust fund; s.7
+#   exempts VAT/SBT/stamp duty on settlor-trustee property transfers.
+
+

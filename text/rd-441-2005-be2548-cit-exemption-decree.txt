@@ -1,0 +1,28 @@
+# source: rd-441-2005-be2548-cit-exemption-decree.pdf
+# url: https://www.rd.go.th/
+# sha256: 6046273d94dbb2e59a959c66d763c22984cf97e92d1b677a61ddf01218e1afa2
+# extracted: 2026-09-04 by pdftotext (poppler)
+# STATUS: working copy. The PDF is authoritative. Verify any quotation,
+#   section number or gazette date against the PDF before it ships.
+# NOTE: This PDF's own text layer is corrupted (mojibake font substitution,
+#   61% Latin). A parallel HTML fetch of the same
+#   rd.go.th page confirms this is พระราชกฤษฎีกาออกตามความในประมวลรัษฎากร ว่าด้วย
+#   การยกเว้นรัษฎากร (ฉบับที่ 441) พ.ศ. 2548, given 11 November 2005 (B.E. 2548):
+#   the corporate-income-tax exemption for an SPJP on income from an
+#   SEC-approved securitization project, conditioned on Director-General's
+#   Notification on Income Tax No. 152. Quote only from the PDF page image or a
+#   fresh rendering, never from this text layer.
+
+9/4/26, 2:41 PM                   พระราชกฤษฎีกาฉบับที่ 441/2548 | กรมสรรพากร - The Revenue Department (rd.go.th)
+
+
+
+
+https://www.rd.go.th/29760.html                                                                                    1/2
+9/4/26, 2:41 PM                   พระราชกฤษฎีกาฉบับที่ 441/2548 | กรมสรรพากร - The Revenue Department (rd.go.th)
+
+
+
+
+https://www.rd.go.th/29760.html                                                                                    2/2
+
